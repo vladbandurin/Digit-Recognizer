@@ -18,5 +18,5 @@
 3 To look how the model work open <b>test_loaded_model.ipynb</b> file and run all cells.
 
 ### Creating dataset
-В процессе создания датасета были нарисованы в ручную по 20 примеров картинок на каждый класс.
-Далее была проведена аугментация этих изображений (Rotating, Cropping, Translation), после чего было получено по 700 изображений на каждый класс.
+In the process of creating dataset, 20 examples of pictures for each class were drawn manually.
+Further, augmentation of these images was carried out (Rotating, Cropping, Translation), after which 700 images were obtained for each class.
